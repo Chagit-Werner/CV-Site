@@ -1,0 +1,12 @@
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\bin\Debug\net8.0\Service.dll
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.dll
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\CV_Site\Service\obj\Debug\net8.0\ref\Service.dll
